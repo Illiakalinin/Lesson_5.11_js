@@ -109,3 +109,33 @@ const mark = 10;
 // let userAge = age >= 18 ? alert("Access granted") : alert("Access denied");
 
 // alert(userAge = age >= 18 ? "Access granted" : "Access denied")
+
+// while (condition) {
+//  body
+// }
+
+// for(initialization; condition; var_change){
+//   body
+// }
+
+// do {
+//  body
+// } while (condition)\
+
+// Користувач має ввести коректне число
+
+// let userNumber = null;
+
+// do {
+//   userNumber = Number(prompt("Input number"));
+// } while (!Number.isFinite(userNumber));
+
+// console.log("userNumber :>> ", userNumber);
+
+// Користувач має вводити результат 2+2*2 до тих пір, поки не введен правильну відповідь
+
+// let result = null;
+// do {
+//   result = Number(prompt("2 + 2 * 2 = ?"));
+// } while (result !== 6);
+// console.log("Awesome");
